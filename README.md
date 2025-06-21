@@ -130,34 +130,7 @@ npm run dev
 
 ---
 
-## 🖼️ Screenshots
 
-| Step | Mode | Description |
-|------|------|-------------|
-| **Step 1** | Light Mode | Shows Name and Email fields, dark mode toggle button |
-| **Step 2** | Dark Mode | Shows password section, password strength meter, success message |
-| **Success** | Any | Animated message post submission |
-
-> 📸 Save screenshots as:  
-> - 1.png  
-> - `screenshots/step2-dark.png`  
-> - `screenshots/success.png`
-
----
-
-## 🎞️ Demo
-
-- A GIF showing:  
-  - Real-time validation  
-  - Multi-step navigation  
-  - Theme toggle  
-  - Animated messages  
-  - Form reset
-
-> 💡 Record using tools like **OBS Studio** or **QuickTime Player**, convert to GIF via [ezgif.com](https://ezgif.com/), and save as:  
-> - `demo/form-validator.gif`
-
----
 
 
 
