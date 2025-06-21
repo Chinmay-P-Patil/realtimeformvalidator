@@ -139,7 +139,7 @@ npm run dev
 | **Success** | Any | Animated message post submission |
 
 > 📸 Save screenshots as:  
-> - `screenshots/step1-light.png`  
+> - 1.png  
 > - `screenshots/step2-dark.png`  
 > - `screenshots/success.png`
 
