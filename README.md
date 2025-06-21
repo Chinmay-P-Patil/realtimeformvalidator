@@ -123,7 +123,7 @@ npm start
 ### 5. Build for Production (Optional):
 
 ```bash
-npm run build
+npm run dev
 ```
 
 > Output will be in the `build/` directory.
